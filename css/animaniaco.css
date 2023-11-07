@@ -1,0 +1,25 @@
+h1{
+    background-color:#300509 ;
+    color: #ffff;
+    text-align:center ;
+}
+body{
+    background-color: #290521;
+}
+p{
+    color: #ffff;
+    margin: 0 auto;
+    width: 80%;
+    height: 80vh;
+}
+ul :hover{
+    margin: 0 auto;
+    width: 80%;
+    height: 80vh;
+    align-items:center ;  
+}
+h2{
+    color: #ffff;
+    margin: auto;
+    text-align: left;
+}
