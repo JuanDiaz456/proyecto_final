@@ -4,22 +4,36 @@ h1{
     text-align:center ;
 }
 body{
-    background-color: #290521;
+    background-color: #000000;
 }
 p{
     color: #ffff;
     margin: 0 auto;
     width: 80%;
-    height: 80vh;
+    height: 30vh;
 }
+
 ul :hover{
-    margin: 0 auto;
-    width: 80%;
-    height: 80vh;
-    align-items:center ;  
+    text-align: center; 
+    background-color: #300509;
+    padding: 10px;
 }
 h2{
     color: #ffff;
     margin: auto;
-    text-align: left;
+    text-align: center;
+    background-color: #300509;
+}
+nav{
+    background-color: black;
+    text-align: center;
+}
+img{
+    align-items: center;
+}
+img{
+    display: block;
+  width: 60%;
+  margin: auto;
+
 }
